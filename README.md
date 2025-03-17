@@ -3,6 +3,7 @@ Project Overview
 This Power BI Healthcare Analysis Dashboard provides a comprehensive, data-driven approach to understanding healthcare screening trends.
 
 This project showcases my data analysis, data visualization, and business intelligence (BI) skills by analyzing screening participation rates segmented by ethnicity, language, race, and region using Power BI.
+![Screenshot 2025-03-17 184806](https://github.com/user-attachments/assets/c893315f-cf35-4f0f-909a-feabbe3b0369)
 
 Dashboard Overview
 
@@ -23,12 +24,17 @@ To address these challenges, this interactive Power BI dashboard was developed, 
 3️⃣ Filter Panel – Users can filter the data dynamically by metric, region, ethnicity, and race to gain customized insights.
 4️⃣ Data-Driven Decision Support – Identify underserved communities and strategize resource allocation accordingly.
 
+
+
+
 🛠 Tools & Technologies Used
 📊 Power BI – Data visualization and interactive dashboard.
 🛢 SQL – Data extraction, transformation, and preparation.
 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn) – Data analysis and pre-processing.
 ☁ Azure/AWS Cloud Services – Data storage and management.
 📂 Excel & CSV – Raw data collection and cleaning.
+
+
 📊 Data Insights & Findings
 🔹 Screening Participation
 👥 6,597 total members eligible for screening.
@@ -44,16 +50,19 @@ Other significant languages: Russian (499), Korean (357), Spanish (268).
 Regional Insights
 🌎 77.4% of eligible members are from the USCA region.
 🌍 APAC and EMEA regions have lower screening participation rates.
-📊 Data Model & Metrics
-This data model includes key attributes such as member demographics, screening participation, and healthcare regions.
 
-Data Model
+
+
+📊 Data Model & Metrics
+
 
 📌 Key Metrics:
 
 Members Eligible for Screening – Total count of members eligible for healthcare screening.
 Members Received Screening – Number and percentage of members who completed screening.
 Members Didn't Receive Screening – Number and percentage of members who missed screening.
+
+
 📈 Methodology & Approach
 📍 Data Collection & Cleaning
 Gathered raw healthcare data from Excel, SQL databases, and cloud storage.
@@ -61,6 +70,9 @@ Data cleaning in Python (Pandas) to remove inconsistencies and missing values.
 🔄 Data Transformation & Preparation
 Used SQL queries to aggregate and structure the data for meaningful insights.
 Standardized column names and formatted dates for consistency.
+
+
+
 📌 Key Takeaways & Business Recommendations
 ✅ Targeted Outreach Programs – Healthcare providers should focus on regions with low screening participation (e.g., APAC, EMEA) by improving accessibility and awareness.
 ✅ Language-Specific Campaigns – Invest in multilingual healthcare communication to increase engagement in non-English speaking populations.
